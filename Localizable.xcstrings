@@ -1,0 +1,49 @@
+{
+  "sourceLanguage" : "ko",
+  "strings" : {
+    "%lld Test" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld Test"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld 테스트"
+          }
+        }
+      }
+    },
+    "123 Test" : {
+
+    },
+    "Xcode before code" : {
+      "comment" : "이것은 코드에서 사용하는 방법입니다."
+    },
+    "Xcode15 and later" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xcode15 and later"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xcode15 이후"
+          }
+        }
+      }
+    },
+    "아무거나 넣어도 나와요" : {
+
+    }
+  },
+  "version" : "1.0"
+}
